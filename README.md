@@ -1,8 +1,8 @@
 # ¿De qué depende cuánto vive la gente? Dashboard de esperanza de vida (OMS, 2000-2015)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_DEL_DASHBOARD)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://programacionparadatos-kyybueovctbmyhvzuayjgq.streamlit.app/)
 
-**Dashboard publicado:** URL_DEL_DASHBOARD
+**Dashboard publicado:** https://programacionparadatos-kyybueovctbmyhvzuayjgq.streamlit.app/
 
 ## Descripción del proyecto
 
@@ -37,8 +37,8 @@ Se eligió porque la esperanza de vida resume en un solo número las condiciones
 1. Instalar Python 3.10 o superior.
 2. Clonar el repositorio:
    ```bash
-   git clone URL_DEL_REPOSITORIO
-   cd NOMBRE_DEL_REPOSITORIO
+   git clone https://github.com/ivandlag/ProgramacionParaDatos.git
+   cd ProgramacionParaDatos
    ```
 3. (Opcional) Crear y activar un entorno virtual:
    ```bash
